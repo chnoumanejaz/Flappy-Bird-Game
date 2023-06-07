@@ -2,9 +2,13 @@
 This Repository contains the Flappy Bird game which is made in unity using C# by Nouman Ejaz.
 .
 You can find scripts in the <code>Assets</code> folder.
+You have to install <code>TextMeshPro</code> in unity.
+You have <code>Configure some Things</code> in unity.
 
 # How to run
 Just open unity and import these folders then you are good to go ✔
+
+# About me
 
 - 🌱 I’m currently learning **React, Typescript**
 
